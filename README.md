@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsWkijb8UMtJ7pr8SeiaYF9iLDQ8BBei1iAg&s)]
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsWkijb8UMtJ7pr8SeiaYF9iLDQ8BBei1iAg&s)
 <h1 align="center">Hi 👋, I'm Bilel Nasri</h1>
 <h3 align="center">A passionate developer from Tunisia</h3>
 
